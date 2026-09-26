@@ -1,5 +1,3 @@
-## Hi there 👋
-
 
 ### Data Science · Artificial Intelligence · Backend Development
 
