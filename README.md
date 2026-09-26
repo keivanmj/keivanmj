@@ -76,7 +76,7 @@ It helps users:
 - Analyze salary information
 - Compare different areas of the job market
 
- **Live Project:** https://jobv.keivanmj.com
+ **Live Project:** https://jobv.keivanmj.com (access only with iran's internet
 
 ---
 
