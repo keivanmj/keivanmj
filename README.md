@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--# Hi, I'm Keivan Majidzade 👋
 
 ### Data Science · Artificial Intelligence · Backend Development
 
