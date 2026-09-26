@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Computer Science graduate focused on building **data-intensive systems,
 machine-learning pipelines, backend infrastructure, and market analytics platforms**.
@@ -31,9 +31,9 @@ I'm particularly interested in:
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 📈 Market Data Analysis & Forecasting
+## Market Data Analysis & Forecasting
 
 A large-scale market intelligence and forecasting platform designed to collect,
 process, validate, and model continuously changing market data.
@@ -65,7 +65,7 @@ process, validate, and model continuously changing market data.
 
 ---
 
-## 💼 Job-Salaries
+## Job-Salaries
 
 A job-market analytics platform combining data from multiple major job markets.
 
@@ -76,13 +76,13 @@ It helps users:
 - Analyze salary information
 - Compare different areas of the job market
 
-🌐 **Live Project:** https://jobv.keivanmj.com
+ **Live Project:** https://jobv.keivanmj.com
 
 ---
 
-# 🛠️ Technical Skills
+#  Technical Skills
 
-## 🤖 Artificial Intelligence & Machine Learning
+##  Artificial Intelligence & Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge"/>
@@ -96,7 +96,7 @@ It helps users:
 
 ---
 
-## 📊 Data Engineering & Analytics
+##  Data Engineering & Analytics
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -111,7 +111,7 @@ It helps users:
 
 ---
 
-## ⚙️ Backend Development
+##  Backend Development
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -125,7 +125,7 @@ It helps users:
 
 ---
 
-## 🖥️ Infrastructure & Linux
+##  Infrastructure & Linux
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -137,7 +137,7 @@ It helps users:
 
 ---
 
-## 🌐 Networking & Secure Connectivity
+##  Networking & Secure Connectivity
 
 <p>
   <img src="https://img.shields.io/badge/V2Ray-345DAD?style=for-the-badge"/>
@@ -169,7 +169,7 @@ digital assets, marketplace behavior, and market-data analysis.
 
 ---
 
-## 🎨 Frontend
+##  Frontend
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -180,7 +180,7 @@ digital assets, marketplace behavior, and market-data analysis.
 
 ---
 
-# 🎓 Education
+#  Education
 
 ### Bachelor of Computer Science
 
@@ -189,7 +189,7 @@ digital assets, marketplace behavior, and market-data analysis.
 
 ---
 
-# 🌍 Languages
+#  Languages
 
 - Persian
 - English
@@ -197,7 +197,7 @@ digital assets, marketplace behavior, and market-data analysis.
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
 <p>
   <a href="mailto:keivan.majidzade@gmail.com">
