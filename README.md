@@ -82,20 +82,6 @@ It helps users:
 
 #  Technical Skills
 
-##  Artificial Intelligence & Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-6A1B9A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Temporal_Fusion_Transformer-7B1FA2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
-
----
-
 ##  Data Engineering & Analytics
 
 <p>
@@ -107,6 +93,20 @@ It helps users:
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
+
+---
+
+##  Artificial Intelligence & Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Temporal_Fusion_Transformer-7B1FA2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
 ---
